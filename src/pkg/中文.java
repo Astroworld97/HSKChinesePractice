@@ -71,6 +71,20 @@ public class 中文 {
         addWord("多少","duōshao", "how much", "cuánto", "你们学校有多少学生？");
         addWord("儿子", "érzi", "son", "hijo", "我儿子三岁了。");
         addWord("二", "èr", "two", "dos", "现在十二点了。");
+        addWord("饭店", "fàndiàn", "restaurant, hotel", "restaurante, hotel", "中午我们去饭店吃吧。");
+        addWord("飞机", "fēijī", "airplane", "avión", "我坐飞机去北京。");
+        addWord("分钟", "fēnzhōng", "minute", "minuto", "我想休息几分钟。（I would like to rest a few minutes.）");
+        addWord("高兴", "gāoxìng", "happy", "contento, alegre", "今天我很高兴。");
+        addWord("个", "gè", "general classifier for individuals or units", "clasificador general para individuos o unidades", "我是一个学生。");
+        addWord("工作", "gōngzuò", "work, to work", "el trabajo, trabajar", "我很喜欢现在的工作。我在医院工作。");
+        addWord("汉语", "Hànyǔ", "Chinese language", "idioma chino", "我在学习汉语。");
+        addWord("好", "hǎo", "good, well. Ok. Very.", "bueno, bien. De acuerdo. Muy.", "今天天气很好。你听我说，好吗？你的衣服很漂亮阿！");
+        addWord("号", "hào", "day, number", "día, número", "今天是2002年1月1号。你的房间号是多少？");
+        addWord("喝","hē", "to drink", "beber", "我想喝水。");
+        addWord("和", "hé", "and, with", "y, con", "爸爸和妈妈都在家。他和王先生说话呢。");
+        addWord("很", "hěn", "very", "muy", "李小姐很漂亮。");
+        addWord("后面", "hòumiàn", "behind", "detrás de", "商店在学校后面。");
+        addWord("回", "huí", "to come back. Time (as in 'one time')", "volver. Vez.", "我八点回家。我去过一会北京。");
 
     }
 
