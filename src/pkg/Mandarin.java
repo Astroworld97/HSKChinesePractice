@@ -2,11 +2,11 @@ package pkg;
 
 import java.util.*;
 
-public class 中文 {
+public class Mandarin{
     TreeMap<String, String[]> dict; //arr at 0 is pinyin. arr at 1 is the English translation. arr at 2 is the Spanish translation. arr at 3 is the example sentence.
     Random r;
 
-    public 中文(){
+    public Mandarin(){
         dict = new TreeMap<>();
         r = new Random();
     }
@@ -87,5 +87,4 @@ public class 中文 {
         addWord("回", "huí", "to come back. Time (as in 'one time')", "volver. Vez.", "我八点回家。我去过一会北京。");
 
     }
-
 }
